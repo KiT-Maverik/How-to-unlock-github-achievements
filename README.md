@@ -212,22 +212,15 @@ Or maybe it’s just a dev you genuinely respect.
 > ❤️ If this guide helped you — feel free to `sponsor this repo`. It's the best way to say "thank you" for the effort.
 </details>
 
-
-<h1 align="center">PULL SHARK</h1>
+<details>
+    <summary align="center"><b>PULL SHARK</b></summary>
 <div align="center">
     <img src="badges/pull-shark.png" alt="Pull Shark">
 </div>
-
----
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
 <blockquote>Get your pull request merged by someone else.</blockquote>
 The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
 
 This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
-
----
 
 > 💡 **Hack 0: Make small, atomic PRs**  
 Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request.  
@@ -240,19 +233,14 @@ Pair up with one of your collaborators. Code together, exchange feedback, review
 
 > 🎯 **Hack 2: Give away YOLOs**  
 If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
-
 </details>
 
-
-<h1 align="center">STARSTRUCK</h1>
+<details>
+    <summary align="center"><b>STARSTRUCK</b></summary>
 <div align="center">
     <img src="badges/starstruck.png" alt="Starstruck">
 </div>
 
----
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
 <blockquote>Create a repository that gets a large number of stars.</blockquote>
 This is one of the hardest and most respected achievements on GitHub. It reflects your impact on the community and can’t be earned through routine actions. Recruiters and developers take it seriously.
 
