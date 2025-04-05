@@ -103,7 +103,7 @@ Então, quando você vê algo como:
 
 💡 Por isso, não precisa entrar em pânico nem criar PRs falsos só para “testar se funciona”.
 
-<h2 align="center">Achievements</h2>
+<h2 align="center">Conquistas</h2>
 
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>

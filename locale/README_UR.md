@@ -106,6 +106,8 @@ GitHub کی کامیابیوں کے ساتھ سب سے بڑا مسئلہ یہ ہ
 
 💡 اسی لیے گھبرا کر جعلی PR بنانے یا "چیک کرنے" کی ضرورت نہیں کہ کیا یہ کام کر رہا ہے۔
 
+<h2 align="center">کارنامے</h2>
+
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>کوئی issue یا PR بنانے کے 5 منٹ کے اندر بند کریں۔</blockquote>
