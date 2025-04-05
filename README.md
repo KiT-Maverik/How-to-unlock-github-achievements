@@ -3,8 +3,10 @@
    - Fair & Honest guide -
 </h1>
 
-<h3 align="center">Main Problem</h3>
-<b>Corporate GitHub ≠ Personal GitHub</b>
+<h3 align="center">
+   Main Problem<br/>
+   Corporate GitHub ≠ Personal GitHub
+</h3>
 
 Here’s one of the biggest problems with GitHub achievements:
 
@@ -86,14 +88,12 @@ So when you see something like:
 
 <h2 align="center">Achievements</h2>
 
-<h3 align="center">Quick draw</h3>
-<div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
-</div>
-
 <details>
-    <summary>🚀 <b>How to unlock?</b></summary>
+    <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>Close an issue or PR within 5 minutes of opening it.</blockquote>
+<div align="center">
+    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+</div>
 
 Let’s be honest — this one’s more of a meme than a milestone 😅  
 It’s so easy to get that it barely counts… but hey, it’s still a badge on your profile!
@@ -125,14 +125,12 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 
 Це відмінна стратегія! Перенесення важливої комунікації у дискусії власного open-source проєкту має додаткові переваги: це не лише сприяє отриманню ачивменту, а й створює прозору історію прийняття рішень. Такий підхід залучає команду до обговорення, допомагає зберігати важливу інформацію в репозиторії та показує твою активність як мейнтейнера. А якщо твоя відповідь визнається прийнятною, ти заслужено отримуєш Galaxy Brain.
 
-<h1 align="center">YOLO</h1>
+<details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>Merge a pull request without a review.</blockquote>
 <div align="center">
     <img src="badges/YOLO.png" alt="YOLO" width="140">
 </div>
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
-<blockquote>Merge a pull request without a review.</blockquote>
 This one’s all about speed and trust — or recklessness 😅  
 You only need to do it once, so here’s the cleanest way:
 
@@ -154,15 +152,12 @@ You only need to do it once, so here’s the cleanest way:
    </blockquote>
 </details>
 
-
-<h1 align="center">Pair Extraordinaire</h1>
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
 <div align="center">
     <img src="badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
-<blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
 
 Working together makes everything better — including achievements.  
 To unlock this badge, you’ll need to practice honest and transparent pair programming.
@@ -190,42 +185,36 @@ If your collaborator merges the PR, you'll also make progress on the <strong>Pul
 That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not harder.
 </details>
 
-<h1 align="center">SPONSOR</h1>
+<details>
+    <summary align="center"><b>SPONSOR</b></summary>
+<blockquote>🐺 Toss a coin to your witcher</blockquote>
 <div align="center">
     <img src="badges/sponsor.png" alt="Sponsor" width="140">
 </div>
-
-<details>
-    <summary align="center">🚀 <b>How to unlock?</b></summary>
-<blockquote>🐺 Toss a coin to your witcher</blockquote>
 Support an open-source developer or project financially via GitHub Sponsors.
 
-To earn this badge, just donate to any open-source initiative.  
-Maybe it’s a tool you use daily.  
-Maybe it’s a repo that once saved your entire weekend.  
-Or maybe it’s just a dev you genuinely respect.
+<div align="center">
+   <br/>
+   To earn this badge, just donate to any open-source initiative.<br/>
+   Maybe it’s a tool you use daily.<br/>
+   Maybe it’s a repo that once saved your entire weekend.<br/>
+   Or maybe it’s just a dev you genuinely respect.<br/>
+</div>
 
 💡 Even a small donation makes a big difference. It shows appreciation, respect, and keeps the open-source spirit alive.
 
 > ❤️ If this guide helped you — feel free to `sponsor this repo`. It's the best way to say "thank you" for the effort.
 </details>
 
-
-<h1 align="center">PULL SHARK</h1>
+<details>
+    <summary align="center"><b>PULL SHARK</b></summary>
+<blockquote>Get your pull request merged by someone else.</blockquote>
 <div align="center">
     <img src="badges/pull-shark.png" alt="Pull Shark">
 </div>
-
----
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
-<blockquote>Get your pull request merged by someone else.</blockquote>
 The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
 
 This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
-
----
 
 > 💡 **Hack 0: Make small, atomic PRs**  
 Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request.  
@@ -238,20 +227,15 @@ Pair up with one of your collaborators. Code together, exchange feedback, review
 
 > 🎯 **Hack 2: Give away YOLOs**  
 If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
-
 </details>
 
-
-<h1 align="center">STARSTRUCK</h1>
+<details>
+    <summary align="center"><b>STARSTRUCK</b></summary>
+<blockquote>Create a repository that gets a large number of stars.</blockquote>
 <div align="center">
     <img src="badges/starstruck.png" alt="Starstruck">
 </div>
 
----
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
-<blockquote>Create a repository that gets a large number of stars.</blockquote>
 This is one of the hardest and most respected achievements on GitHub. It reflects your impact on the community and can’t be earned through routine actions. Recruiters and developers take it seriously.
 
 There’s no checklist or shortcut to unlock this one — the only way is to identify a real problem the community has… and solve it. That’s it.
