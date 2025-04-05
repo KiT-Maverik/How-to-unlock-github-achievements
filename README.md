@@ -71,22 +71,33 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 
 <h1 align="center">YOLO</h1>
 <div align="center">
-<img src="badges/YOLO.png" alt="YOLO" width="15%">
+    <img src="badges/YOLO.png" alt="YOLO" width="140">
 </div>
+
 <details>
-    <summary>🚀 How to unlock?</summary>
-<blockquote>Merge PR without a review</blockquote>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Merge a pull request without a review.</blockquote>
+This one’s all about speed and trust — or recklessness 😅  
+You only need to do it once, so here’s the cleanest way:
+
 <ol>
-    <li>Make a small change in your project (see examples below):</li>
+    <li>Make a small, low-risk change in your project. Examples:</li>
     <ul>
-        <li>Lint</li>
-        <li>Quick one-liner fix</li>
-        <li>Small, yet valuable addition to README.md</li>
-        <li>Initial commit with something like git initialization, or setting up packages</li>
+        <li>Lint fix</li>
+        <li>Quick one-liner patch</li>
+        <li>Tiny but helpful addition to <code>README.md</code></li>
+        <li>Initial commit with setup or <code>git init</code></li>
     </ul>
-    <li>Merge it without review</li>
+    <li>Open a pull request</li>
+    <li>Merge it yourself without asking for a review</li>
 </ol>
+
+   <blockquote>
+      ⚠️ <b>WARNING</b>⚠️<br/>
+      Don’t YOLO in production. Just merge without review a PR with the initial commit of your open-source project😉. It’s clean, honest, and totally legit.
+   </blockquote>
 </details>
+
 
 <h1 align="center">Pair Extraordinaire</h1>
 <div align="center">
@@ -107,33 +118,102 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 </ol>
 </details>
 
-# спонсор
-Окей, наступний achievement – це спонсор. Тут опиши, за що він видається, і в кінці скажи спосіб його досягнути. Бро, spread some love. Типа, бро, підтримай хороших кодерів. Просто задонать якусь суму на репозиторій, які вважаєш достойними. Це може бути або туда, яку ти часто користуєшся, або репозиторії, які б тобі чимось допоміг. До речі, про репозиторії, які тобі чимось допомогли. Сподіваюся, цей репозиторій для тебе був дуже класним. Ти можеш підтримати його.
+<h1 align="center">SPONSOR</h1>
+<div align="center">
+    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+</div>
 
-Sponsor — це ачивмент, який видається, коли ти фінансово підтримуєш розробника або проєкт на GitHub. Щоб отримати його, потрібно зробити донат будь-якій open-source ініціативі. Наприклад, ти можеш підтримати тулзу, яку часто використовуєш, або репозиторій, який тобі допоміг. Або ж просто підтримай когось із розробників, чий внесок вважаєш важливим. Як кажуть, "Bro, spread some love!
+<details>
+    <summary align="center">🚀 <b>How to unlock?</b></summary>
+<blockquote>🐺 Toss a coin to your witcher</blockquote>
+Support an open-source developer or project financially via GitHub Sponsors.
 
-Добре, але ти забув уточнити, що репозиторій, в якому він побачить цей гайд, ти також можеш його підтримати. Тож, можна сказати, що, чувак, якщо той репозиторій тобі допоміг, зроби довільний донат.
+To earn this badge, just donate to any open-source initiative.  
+Maybe it’s a tool you use daily.  
+Maybe it’s a repo that once saved your entire weekend.  
+Or maybe it’s just a dev you genuinely respect.
 
-Вірно! Якщо цей гайд виявився тобі корисним, ти можеш підтримати репозиторій, в якому його знайшов. Будь-який донат — це чудовий спосіб подякувати авторам за їхню працю. "Bro, якщо цей репозиторій тобі допоміг, зроби довільний донат!
+💡 Even a small donation makes a big difference. It shows appreciation, respect, and keeps the open-source spirit alive.
 
-# PoolShark
-Окей, тепер давай опишемо achievement PoolShark. Щоби його досягнути, опиши, що треба зробити. Найкраща стратегія його досягнути – це у власному open-source проєкті постити pool-requests і щоби твої колаборатори їх мерджили. Важливо, щоби їх мерджив хтось інший, окрім тебе
-
-це ачивмент, який отримують за активну участь у pull request'ах. Найкраща стратегія для його досягнення — це регулярно створювати pull request'и у власному open-source проєкті і залучати колабораторів для їх мерджу. Важливо, щоб ці pull request'и мерджив хтось інший, а не ти сам. Це показує, що ти активно працюєш у команді й твій код проходить перевірку іншими розробниками.
-
-Цікава деталь. Багато новачків страждають на таку проблему. Вони намагаються зробити величезний pull request буквально про все, засунувши в нього всю інформацію з контексту Fitch, яка буквально-буквально існує. Якщо ти будеш качати pull shark, то для того, щоб це ефективно і успішно робити, тобі доведеться навчитися деталізувати коміти, деталізувати pull requests, робити їх атомарними, маленькими, гарними для рів'ю, легкими в рів'ю і, условно говоря, безпечними.
-
-Це дійсно важлива деталь! Новачкам варто навчитися робити pull request'и атомарними та чітко структурованими. Замість того, щоб намагатися охопити все в одному великому pull request'і, краще розбивати зміни на невеликі, логічно завершені частини. Такі pull request'и легше перевіряти, вони зрозуміліші для колег і швидше мерджаться. Це не тільки допоможе отримати Pull Shark, але й підвищить якість твоєї роботи та спростить командну співпрацю.
-
-# StarStruck
-Окей, наступний achievement – StarStruck. Особисто я вважаю його найскладнішим у досягненні і, відповідно, найважливішим в твоїй роботі. Опиши, що треба для того, щоб отримати StarStruck. Гайд, як його отримати. Тобі треба створити репозиторій, який буде важливий для спільноти, буде їй подобатися, допомагати і вирішувати якусь проблему. Ідея цього репозиторія, вже частково ідея для цього репозиторія, озвучувалась в іншому achievement. Але також ідею для цього репозиторію можна почерпнути, аналізуючи популярні теми або популярні пошукові запити в Гуглі, що стосуються розробки. Наприклад, туторіал по Маркдауну, або туторіал по Емоджі, або туторіал по ачівментам. В будь-якому випадку бери щось, що дуже цікавить людей. Це не обов'язково має бути якийсь програмний продукт. Це може бути просто документ, який тобі сподобається аудиторії, засунутий в GitHub-репозиторій.
-
-Starstruck — це ачивмент, який отримують, коли твій репозиторій отримує велику кількість зірочок (stars). Щоб досягти цього, потрібно створити репозиторій, який буде корисним і цікавим для спільноти.
-
-Ідеї можна черпати, аналізуючи популярні теми та запити. Це може бути як програмний продукт, так і корисний документ, наприклад, туторіал чи гайд, розміщений на GitHub. Головне — знайти щось, що зацікавить аудиторію, і активно просувати цей репозиторій, щоб залучити більше користувачів.
-
-Давай тут також ще явно зазначимо, що для нас дуже важливий цей ачівмент. І якщо ти прямо зараз читаєш цей гайд і він тобі подобається, бро, smash that star button!”
-
-Якщо ти зараз читаєш цей гайд і він тобі подобається, bro, smash that star button! Для нас це дійсно важливо, і твоя підтримка допоможе нам створювати ще більше корисного контенту.
+> ❤️ If this guide helped you — feel free to `sponsor this repo`. It's the best way to say "thank you" for the effort.
+</details>
 
 
+<h1 align="center">PULL SHARK</h1>
+<div align="center">
+    <img src="badges/pull-shark.png" alt="Pull Shark">
+</div>
+
+---
+
+<details>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Get your pull request merged by someone else.</blockquote>
+The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
+
+This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
+
+---
+
+> 💡 **Hack 0: Make small, atomic PRs**  
+Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request.  
+But if you want to earn Pull Shark effectively (and grow as a developer), you must learn to write small, atomic pull requests.  
+That means: well-scoped, readable, easy to test and review.  
+This isn’t just about the badge — it’s how professionals code.
+
+> 🤝 **Hack 1: Earn "Pair Extraordinaire" in parallel**  
+Pair up with one of your collaborators. Code together, exchange feedback, review each other's PRs. Then use the `Co-authored-by:` tag to transparently reflect the shared effort. You’ll both progress toward two achievements at once — smart move!
+
+> 🎯 **Hack 2: Give away YOLOs**  
+If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
+
+</details>
+
+
+<h1 align="center">STARSTRUCK</h1>
+<div align="center">
+    <img src="badges/starstruck.png" alt="Starstruck">
+</div>
+
+---
+
+<details>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Create a repository that gets a large number of stars.</blockquote>
+This is one of the hardest and most respected achievements on GitHub. It reflects your impact on the community and can’t be earned through routine actions. Recruiters and developers take it seriously.
+
+There’s no checklist or shortcut to unlock this one — the only way is to identify a real problem the community has… and solve it. That’s it.
+
+🎯 I see two realistic paths:
+
+<ol>
+    <li><strong>Create a software product</strong><br>
+        Let’s be honest — that takes not only outstanding skills, but years of experience to identify the right problem. Probably not your first repo.
+    </li>
+    <li><strong>Create a repository that delivers real value through resources</strong><br>
+        For example: a well-written guide, a useful config starter, a small CLI, or even a curated list of tools (awesome list).
+    </li>
+</ol>
+
+<blockquote><strong>⭐ Smash that "Star" button, bro!</strong><br>
+This repo is a great example of a resource made for the good of the community. If this guide helped you — drop a star 🫡</blockquote>
+
+---
+
+### 🧠 How to find your own "star-worthy" idea?
+
+Focus on pain. Learn to notice it. Here’s where to look:
+
+1. **Google autocomplete** — see what people search for:  
+   `"github how to..."`, `"vite storybook setup..."`, etc.
+
+2. **Issues & discussions** in your favorite framework:  
+   If someone is asking for something and it gets many 👍 — that’s a real need.
+
+3. **Listen to frustration** — every time you or someone says:  
+   *“This sucks!”* or *“I wish this existed…”* — that’s a signal.
+
+Then it’s simple: **offer a solution**.  
+Wrap it in a clean repo with a clear README — and share it.
+
+</details>
