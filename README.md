@@ -3,8 +3,10 @@
    - Fair & Honest guide -
 </h1>
 
-<h3 align="center">Main Problem</h3>
-<b>Corporate GitHub ≠ Personal GitHub</b>
+<h3 align="center">
+   Main Problem<br/>
+   Corporate GitHub ≠ Personal GitHub
+</h3>
 
 Here’s one of the biggest problems with GitHub achievements:
 
