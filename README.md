@@ -1,7 +1,7 @@
-### Hot to unlock Github achievements
-# Fair & Honest guide
+<h1 align="center">🏆 Hot to unlock 100% Github achievements | 2025 🏆</h1>
+<h2 align="center">- Fair & Honest guide -</h2>
 
-<h1 align="center">Main Problem</h1>
+<h3 align="center">Main Problem</h3>
 <b>Corporate GitHub ≠ Personal GitHub</b>
 
 Here’s one of the biggest problems with GitHub achievements:
