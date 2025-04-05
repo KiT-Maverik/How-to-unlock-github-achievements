@@ -164,6 +164,7 @@ This strategy:
 - Shows leadership and initiative
 - Helps your team stay aligned
 - And yes — earns you the badge
+</details>
 
 <details>
     <summary align="center"><b>YOLO</b></summary>
