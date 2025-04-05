@@ -158,10 +158,10 @@ You only need to do it once, so here’s the cleanest way:
 
 <details>
     <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
 <div align="center">
     <img src="badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
-<blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
 
 Working together makes everything better — including achievements.  
 To unlock this badge, you’ll need to practice honest and transparent pair programming.
@@ -191,10 +191,10 @@ That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not h
 
 <details>
     <summary align="center"><b>SPONSOR</b></summary>
+<blockquote>🐺 Toss a coin to your witcher</blockquote>
 <div align="center">
     <img src="badges/sponsor.png" alt="Sponsor" width="140">
 </div>
-<blockquote>🐺 Toss a coin to your witcher</blockquote>
 Support an open-source developer or project financially via GitHub Sponsors.
 
 <div align="center">
@@ -212,10 +212,10 @@ Support an open-source developer or project financially via GitHub Sponsors.
 
 <details>
     <summary align="center"><b>PULL SHARK</b></summary>
+<blockquote>Get your pull request merged by someone else.</blockquote>
 <div align="center">
     <img src="badges/pull-shark.png" alt="Pull Shark">
 </div>
-<blockquote>Get your pull request merged by someone else.</blockquote>
 The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
 
 This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
@@ -235,11 +235,11 @@ If you’ve made a tiny, safe PR — let your teammate merge it <em>without revi
 
 <details>
     <summary align="center"><b>STARSTRUCK</b></summary>
+<blockquote>Create a repository that gets a large number of stars.</blockquote>
 <div align="center">
     <img src="badges/starstruck.png" alt="Starstruck">
 </div>
 
-<blockquote>Create a repository that gets a large number of stars.</blockquote>
 This is one of the hardest and most respected achievements on GitHub. It reflects your impact on the community and can’t be earned through routine actions. Recruiters and developers take it seriously.
 
 There’s no checklist or shortcut to unlock this one — the only way is to identify a real problem the community has… and solve it. That’s it.
