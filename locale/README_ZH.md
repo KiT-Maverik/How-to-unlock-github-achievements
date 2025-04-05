@@ -110,7 +110,7 @@
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>在创建 Issue 或 PR 后 5 分钟内关闭它。</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 说实话 —— 这个成就更像是个表情包而不是里程碑 😅  
@@ -131,7 +131,7 @@
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>你的回答在 GitHub Discussion 中被标记为“已采纳答案”。</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain 是为了奖励那些在讨论中给出<strong>真正有帮助的回答</strong>的人。  
@@ -195,7 +195,7 @@ Galaxy Brain 是为了奖励那些在讨论中给出<strong>真正有帮助的�
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 向猎魔人扔一枚金币</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 通过 GitHub Sponsors 资助开源开发者或项目。
@@ -220,7 +220,7 @@ Galaxy Brain 是为了奖励那些在讨论中给出<strong>真正有帮助的�
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>你的 Pull Request 被其他人合并。</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 最简单的方式是：从你自己的开源项目开始 —— 我们前面已经提到过了。  
@@ -249,7 +249,7 @@ Galaxy Brain 是为了奖励那些在讨论中给出<strong>真正有帮助的�
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>创建一个获得大量 Star 的仓库。</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 这是 GitHub 上最难获得、最受尊敬的成就之一。  
