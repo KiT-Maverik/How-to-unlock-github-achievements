@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
   <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
   <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
@@ -104,6 +105,8 @@ GitHub 업적에서 가장 큰 문제 중 하나는 다음과 같습니다:
 > 예를 들어 32개 PR 머지를 달성한 **2단계**라는 뜻입니다.
 
 💡 그렇기 때문에 "작동하는지 테스트하려고" 가짜 PR을 만들 필요는 없습니다.
+
+<h2 align="center">업적</h2>
 
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>

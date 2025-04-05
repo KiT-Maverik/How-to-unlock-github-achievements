@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
   <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
   <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
@@ -12,7 +13,6 @@
   <a href="README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
   <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
   <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
-  <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
   <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
   <a href="README_JP.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
   <a href="README_KO.md">🇰🇷 한국어</a>
@@ -105,6 +105,8 @@ GitHub অর্জন নিয়ে সবচেয়ে বড় সমস
 > এর মানে আপনি ২য় ধাপে পৌঁছেছেন (যেমন, ৩২টি merged PR)।
 
 💡 তাই দয়া করে প্যানিক করবেন না বা "চল দেখি কাজ করছে কিনা" — এই কারণে ভুয়া PR খুলবেন না।
+
+<h2 align="center">অর্জনসমূহ</h2>
 
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>

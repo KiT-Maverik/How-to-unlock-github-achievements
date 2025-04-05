@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
   <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
   <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
@@ -14,7 +15,6 @@
   <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
   <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
   <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="README_JP.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
   <a href="README_KO.md">🇰🇷 한국어</a>
 </div>
 
@@ -98,6 +98,8 @@
 > 表示されるのは <strong>現在のランク</strong> だけです。
 
 たとえば、こう表示されていたら：
+
+<h2 align="center">実績</h2>
 
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>
