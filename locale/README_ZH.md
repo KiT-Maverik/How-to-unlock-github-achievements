@@ -192,6 +192,55 @@ Galaxy Brain 是为了奖励那些在讨论中给出<strong>真正有帮助的�
 </details>
 
 <details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>合并一个没有经过审查的 Pull Request。</blockquote>
+<div align="center">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
+</div>
+
+这个徽章关乎速度与信任 —— 或者是鲁莽 😅  
+你只需要做一次，最干净的方式如下：
+
+<ol>
+    <li>在项目中进行一个小而安全的更改，例如：</li>
+    <ul>
+        <li>格式化修复</li>
+        <li>一行代码的快速补丁</li>
+        <li>向 <code>README.md</code> 添加有用的小内容</li>
+        <li>初始提交，例如 git init 或包安装</li>
+    </ul>
+    <li>创建一个 Pull Request</li>
+    <li>自己合并，不请求审查</li>
+</ol>
+
+<blockquote>
+⚠️ <b>警告：不要在生产环境 YOLO</b> ⚠️<br/>
+合并你 open-source 项目的初始提交 PR 是最干净且合法的方式 😉
+</blockquote>
+</details>
+
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>合并一个包含共同作者提交的 Pull Request。</blockquote>
+<div align="center">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+</div>
+
+协作让一切更美好 —— 包括徽章。  
+要解锁这个徽章，你需要进行诚实和透明的结对编程。
+
+<ol>
+    <li>与你的协作者一起编码、审查并分享想法</li>
+    <li>在提交信息中添加共同作者行：<br/>
+        <code>Co-authored-by: userName &lt;user@example.com&gt;</code>
+    </li>
+    <li>创建并合并 PR</li>
+</ol>
+
+✅ 配合 Pull Shark，一起刷成就更高效！
+</details>
+
+<details>
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 向猎魔人扔一枚金币</blockquote>
 <div align="center">
