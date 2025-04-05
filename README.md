@@ -71,22 +71,33 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 
 <h1 align="center">YOLO</h1>
 <div align="center">
-<img src="badges/YOLO.png" alt="YOLO" width="15%">
+    <img src="badges/YOLO.png" alt="YOLO" width="140">
 </div>
+
 <details>
-    <summary>🚀 How to unlock?</summary>
-<blockquote>Merge PR without a review</blockquote>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Merge a pull request without a review.</blockquote>
+This one’s all about speed and trust — or recklessness 😅  
+You only need to do it once, so here’s the cleanest way:
+
 <ol>
-    <li>Make a small change in your project (see examples below):</li>
+    <li>Make a small, low-risk change in your project. Examples:</li>
     <ul>
-        <li>Lint</li>
-        <li>Quick one-liner fix</li>
-        <li>Small, yet valuable addition to README.md</li>
-        <li>Initial commit with something like git initialization, or setting up packages</li>
+        <li>Lint fix</li>
+        <li>Quick one-liner patch</li>
+        <li>Tiny but helpful addition to <code>README.md</code></li>
+        <li>Initial commit with setup or <code>git init</code></li>
     </ul>
-    <li>Merge it without review</li>
+    <li>Open a pull request</li>
+    <li>Merge it yourself without asking for a review</li>
 </ol>
+
+   <blockquote>
+      ⚠️ <b>WARNING</b>⚠️<br/>
+      Don’t YOLO in production. Just merge without review a PR with the initial commit of your open-source project😉. It’s clean, honest, and totally legit.
+   </blockquote>
 </details>
+
 
 <h1 align="center">Pair Extraordinaire</h1>
 <div align="center">
@@ -107,14 +118,26 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 </ol>
 </details>
 
-# спонсор
-Окей, наступний achievement – це спонсор. Тут опиши, за що він видається, і в кінці скажи спосіб його досягнути. Бро, spread some love. Типа, бро, підтримай хороших кодерів. Просто задонать якусь суму на репозиторій, які вважаєш достойними. Це може бути або туда, яку ти часто користуєшся, або репозиторії, які б тобі чимось допоміг. До речі, про репозиторії, які тобі чимось допомогли. Сподіваюся, цей репозиторій для тебе був дуже класним. Ти можеш підтримати його.
+<h1 align="center">SPONSOR</h1>
+<div align="center">
+    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+</div>
 
-Sponsor — це ачивмент, який видається, коли ти фінансово підтримуєш розробника або проєкт на GitHub. Щоб отримати його, потрібно зробити донат будь-якій open-source ініціативі. Наприклад, ти можеш підтримати тулзу, яку часто використовуєш, або репозиторій, який тобі допоміг. Або ж просто підтримай когось із розробників, чий внесок вважаєш важливим. Як кажуть, "Bro, spread some love!
+<details>
+    <summary align="center">🚀 <b>How to unlock?</b></summary>
+<blockquote>🐺 Toss a coin to your witcher</blockquote>
+Support an open-source developer or project financially via GitHub Sponsors.
 
-Добре, але ти забув уточнити, що репозиторій, в якому він побачить цей гайд, ти також можеш його підтримати. Тож, можна сказати, що, чувак, якщо той репозиторій тобі допоміг, зроби довільний донат.
+To earn this badge, just donate to any open-source initiative.  
+Maybe it’s a tool you use daily.  
+Maybe it’s a repo that once saved your entire weekend.  
+Or maybe it’s just a dev you genuinely respect.
 
-Вірно! Якщо цей гайд виявився тобі корисним, ти можеш підтримати репозиторій, в якому його знайшов. Будь-який донат — це чудовий спосіб подякувати авторам за їхню працю. "Bro, якщо цей репозиторій тобі допоміг, зроби довільний донат!
+💡 Even a small donation makes a big difference. It shows appreciation, respect, and keeps the open-source spirit alive.
+
+> ❤️ If this guide helped you — feel free to `sponsor this repo`. It's the best way to say "thank you" for the effort.
+</details>
+
 
 <h1 align="center">PULL SHARK</h1>
 <div align="center">
