@@ -27,25 +27,28 @@
 Давай окремо зазначимо, що якщо ти створюєш open source проект, відкритий, дуже важливо на ньому налаштувати безпеку, щоб ніхто без твого відома, або не з числа колабораторів, не міг туди нічого заливати.
 При створенні відкритого open-source проєкту важливо налаштувати безпеку. Потрібно чітко визначити права доступу, щоб лише довірені колаборатори могли вносити зміни. Так ти захистиш проєкт від небажаних комітів та збережеш контроль над його розвитком.
 
-# pair extraordinate
-
-
-
-
 <h1 align="center">QuickDraw</h1>
 <div align="center">
-<img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
+    <img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
 </div>
+
 <details>
-    <summary>🚀 How to unlock?</summary>
+    <summary>🚀 <b>How to unlock?</b></summary>
 <blockquote>Close an issue or PR within 5 minutes of opening it.</blockquote>
-This achievement is so easy to get that I honestly don't see much value in it. Just consider it as another little picture in your profile.
+
+Let’s be honest — this one’s more of a meme than a milestone 😅  
+It’s so easy to get that it barely counts… but hey, it’s still a badge on your profile!
+
 <ol>
-    <li>Create a PR</li>
-    <li>Close it right away</li>
+    <li>Create a pull request</li>
+    <li>Close it immediately</li>
 </ol>
-<blockquote>You don’t even need to create a dummy PR. Just close and reopen any real feature PR.</blockquote>
+
+<blockquote>
+   <b>No need to create fake PRs.</b><br/>
+   Just close and reopen any real PR during normal work — it still counts.</blockquote>
 </details>
+
 
 # Galaxy Brain
 Наступний achievement Galaxy Brain. Він видається за те, що ви відповідаєте на якісь дискусії, і ваша відповідь Topic Starter оцінюється як прийнятна відповідь.
