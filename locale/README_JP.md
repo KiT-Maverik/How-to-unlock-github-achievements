@@ -99,6 +99,8 @@
 
 たとえば、こう表示されていたら：
 
+<h2 align="center">実績</h2>
+
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>IssueまたはPRを作成してから5分以内にクローズする。</blockquote>
