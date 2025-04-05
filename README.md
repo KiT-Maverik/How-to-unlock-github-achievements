@@ -192,13 +192,11 @@ If your collaborator merges the PR, you'll also make progress on the <strong>Pul
 That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not harder.
 </details>
 
-<h1 align="center">SPONSOR</h1>
+<details>
+    <summary align="center"><b>SPONSOR</b></summary>
 <div align="center">
     <img src="badges/sponsor.png" alt="Sponsor" width="140">
 </div>
-
-<details>
-    <summary align="center">🚀 <b>How to unlock?</b></summary>
 <blockquote>🐺 Toss a coin to your witcher</blockquote>
 Support an open-source developer or project financially via GitHub Sponsors.
 
