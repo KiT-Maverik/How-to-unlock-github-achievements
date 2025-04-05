@@ -107,7 +107,7 @@ Wenn du also z. B. siehst:
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>Schließe ein Issue oder einen PR innerhalb von 5 Minuten nach dem Erstellen.</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 Seien wir ehrlich — dieser Erfolg ist eher ein Meme als ein Meilenstein 😅  
@@ -128,7 +128,7 @@ Er ist so leicht zu bekommen, dass er kaum zählt… aber hey, es ist trotzdem e
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>Deine Antwort wird als "Akzeptierte Antwort" in einer GitHub-Diskussion markiert.</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain belohnt Leute, die <strong>wirklich hilfreiche Antworten</strong> in GitHub Discussions geben.  
@@ -192,7 +192,7 @@ Wenn du ein Open-Source-Projekt betreust, <code>verlagere wichtige Kommunikation
 
 > Merge deinen <code>eigenen</code> Pull Request ohne Review.
 <div align="center">
-    <img src="badges/yolo.png" alt="YOLO" width="140">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
 </div>
 
 Dieser Erfolg geht auf Risiko, Vertrauen… oder Wahnsinn 😅  
@@ -221,7 +221,7 @@ Du musst ihn nur ein einziges Mal auslösen — hier ist der cleanste Weg:
     <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
 <blockquote>Merge einen PR mit einem Commit, der Co-Autoren enthält.</blockquote>
 <div align="center">
-    <img src="badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
 
 Gemeinsam arbeitet es sich besser — sogar für Erfolge.  
@@ -254,7 +254,7 @@ Pair Programming fördert nicht nur das Lernen, sondern verbessert auch die Code
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 Wirf eine Münze deinem Hexer zu</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 Unterstütze ein Open-Source-Projekt oder einen Entwickler finanziell über GitHub Sponsors.
@@ -278,7 +278,7 @@ Unterstütze ein Open-Source-Projekt oder einen Entwickler finanziell über GitH
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>Lass deinen Pull Request von jemand anderem mergen.</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 Der einfachste Weg, um anzufangen: Arbeite an deinem eigenen Open-Source-Projekt — wie oben schon erwähnt.  
@@ -306,7 +306,7 @@ Das ist nicht nur für das Badge — <strong>so arbeitet man professionell</stro
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>Erstelle ein Repository, das viele Sterne bekommt.</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 Das ist eines der härtesten und angesehensten Achievements auf GitHub.  
