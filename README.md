@@ -156,14 +156,11 @@ You only need to do it once, so here’s the cleanest way:
    </blockquote>
 </details>
 
-
-<h1 align="center">Pair Extraordinaire</h1>
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
 <div align="center">
     <img src="badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
-
-<details>
-    <summary>🚀 <b>How to unlock?</b></summary>
 <blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
 
 Working together makes everything better — including achievements.  
