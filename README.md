@@ -123,11 +123,11 @@ You'll learn how to:
     <li>Keep your entire team aligned and aware of key discussions</li>
 </ul>
 
-🚀Houston, we have a problem!🚀
+🚀 Houston, we have a problem! 🚀  
 Even when your answer is legit and actually solves the issue — people rarely mark it as accepted. Reminders often get ignored, and you end up ghosted. Brutal, but true.
 
 So instead of relying on strangers, try this instead:  
-Grind Galaxy Brain in a **controlled environment**:  
+> Grind Galaxy Brain in a **controlled environment**:  
 * Team up with friends or colleagues.
 * Answer their real questions
 * Ask them to accept your reply if it helped.
@@ -148,7 +148,7 @@ Grind Galaxy Brain in a **controlled environment**:
     </li>
 </ol>
 
-✅ This approach is honest, useful, and creates long-lasting resources for the community.
+✅ This strategy is honest, useful, and creates long-lasting resources for the community.
 
 `🛠️ Strategy 2: Use Discussions in your own repo`
 
@@ -159,7 +159,7 @@ If you maintain your own open-source project, just `move important communication
 3. Share clear, constructive responses that help guide decisions
 4. If someone else started the topic — your reply can be marked as the accepted answer
 
-This strategy:
+✅ This strategy:
 - Builds transparent decision history
 - Shows leadership and initiative
 - Helps your team stay aligned
@@ -188,8 +188,8 @@ You only need to do it once, so here’s the cleanest way:
 </ol>
 
    <blockquote>
-      ⚠️ <b>WARNING</b>⚠️<br/>
-      Don’t YOLO in production. Just merge without review a PR with the initial commit of your open-source project😉. It’s clean, honest, and totally legit.
+      ⚠️ <b>WARNING: DON'T YOLO IN PRODUCTION</b> ⚠️<br/>
+       Just merge without review a PR with the initial commit of your open-source project😉. It’s clean, honest, and totally legit.
    </blockquote>
 </details>
 
@@ -204,7 +204,7 @@ Working together makes everything better — including achievements.
 To unlock this badge, you’ll need to practice honest and transparent pair programming.
 
 <ol>
-    <li>Team up with a collaborator and code together. Share ideas, review each other’s work, and write code side by side.</li>
+    <li>Team up with your open-source project collaborator and code together. Share ideas, review each other’s work, and write code side by side.</li>
     <li>Add a co-author annotation in your commit message:<br>
         <code>Co-authored-by: johnDoe &lt;johnDoe@example.com&gt;</code><br>
         <ul>
@@ -240,6 +240,7 @@ Support an open-source developer or project financially via GitHub Sponsors.
    Maybe it’s a tool you use daily.<br/>
    Maybe it’s a repo that once saved your entire weekend.<br/>
    Or maybe it’s just a dev you genuinely respect.<br/>
+   <br/>
 </div>
 
 💡 Even a small donation makes a big difference. It shows appreciation, respect, and keeps the open-source spirit alive.
@@ -253,15 +254,14 @@ Support an open-source developer or project financially via GitHub Sponsors.
 <div align="center">
     <img src="badges/pull-shark.png" alt="Pull Shark">
 </div>
-The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
+The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.  
 
-This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
+
+⭐ This is the most **skill-boosting achievement** on GitHub — it pushes you to write clean, testable, and reviewable code.
 
 > 💡 **Hack 0: Make small, atomic PRs**  
-Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request.  
-But if you want to earn Pull Shark effectively (and grow as a developer), you must learn to write small, atomic pull requests.  
-That means: well-scoped, readable, easy to test and review.  
-This isn’t just about the badge — it’s how professionals code.
+Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request. But if you want to earn Pull Shark effectively (and grow as a developer), you must learn to write small, atomic pull requests. That means: `well-scoped, readable, easy to test and review`.  
+This isn’t just about the badge — **it’s how professionals code**.
 
 > 🤝 **Hack 1: Earn "Pair Extraordinaire" in parallel**  
 Pair up with one of your collaborators. Code together, exchange feedback, review each other's PRs. Then use the `Co-authored-by:` tag to transparently reflect the shared effort. You’ll both progress toward two achievements at once — smart move!
@@ -292,7 +292,7 @@ There’s no checklist or shortcut to unlock this one — the only way is to ide
     </li>
 </ol>
 
-<blockquote><strong>⭐ Smash that "Star" button, bro!</strong><br>
+<blockquote><strong>⭐ Smash that "Star" button, bro! ⭐</strong><br>
 This repo is a great example of a resource made for the good of the community. If this guide helped you — drop a star 🫡</blockquote>
 
 ---
