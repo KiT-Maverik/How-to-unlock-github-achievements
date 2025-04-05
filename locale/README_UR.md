@@ -192,6 +192,54 @@ Galaxy Brain ان لوگوں کو ملتا ہے جو Discussions میں <strong>
 </details>
 
 <details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>بغیر جائزے کے PR کو مرج کریں۔</blockquote>
+<div align="center">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
+</div>
+
+یہ بیج رفتار اور اعتماد — یا لاپروائی 😅 — کی نمائندگی کرتا ہے۔  
+اسے حاصل کرنے کے لیے صرف ایک بار کرنا کافی ہے۔
+
+<ol>
+    <li>اپنے پراجیکٹ میں کوئی چھوٹا، محفوظ تبدیلی کریں جیسے:</li>
+    <ul>
+        <li>لنٹنگ کی اصلاح</li>
+        <li>ایک لائن کا فوری پیج</li>
+        <li><code>README.md</code> میں مفید اضافہ</li>
+        <li>ابتدائی commit (git init وغیرہ)</li>
+    </ul>
+    <li>PR بنائیں</li>
+    <li>بغیر کسی جائزے کے خود مرج کریں</li>
+</ol>
+
+<blockquote>
+⚠️ <b>خبردار: پروڈکشن میں YOLO نہ کریں</b> ⚠️<br/>
+اپنے open-source پروجیکٹ کا ابتدائی commit مرج کرنا بہترین طریقہ ہے 😉
+</blockquote>
+</details>
+
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>ایک ایسا PR مرج کریں جس میں مشترکہ مصنف کا commit ہو۔</blockquote>
+<div align="center">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+</div>
+
+مل جل کر کام کرنے سے نہ صرف کوڈ بہتر ہوتا ہے بلکہ آپ کو یہ قیمتی بیج بھی ملتا ہے۔
+
+<ol>
+    <li>ساتھی کے ساتھ کام کریں، تجاویز شئیر کریں اور ساتھ میں کوڈ لکھیں</li>
+    <li>commit میں یہ لائن شامل کریں:<br/>
+        <code>Co-authored-by: username &lt;user@example.com&gt;</code>
+    </li>
+    <li>PR بنائیں اور مرج کریں</li>
+</ol>
+
+✅ ساتھ ساتھ Pull Shark بھی حاصل کریں — جیت دو طرفہ!
+</details>
+
+<details>
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 اپنے وِچر کو ایک سکہ دو</blockquote>
 <div align="center">
