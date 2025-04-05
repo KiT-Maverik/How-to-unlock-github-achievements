@@ -190,6 +190,54 @@ Se você mantém um projeto open-source, <code>mova discussões importantes para
 </details>
 
 <details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>Mescle um PR sem revisão.</blockquote>
+<div align="center">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
+</div>
+
+Esse aqui é sobre velocidade e confiança — ou pura loucura 😅  
+Você só precisa fazer isso uma vez.
+
+<ol>
+    <li>Faça uma alteração pequena e segura no projeto, por exemplo:</li>
+    <ul>
+        <li>Correção de lint</li>
+        <li>Patch rápido de uma linha</li>
+        <li>Adição útil ao <code>README.md</code></li>
+        <li>Commit inicial com <code>git init</code></li>
+    </ul>
+    <li>Abra um pull request</li>
+    <li>Mescle você mesmo, sem revisão</li>
+</ol>
+
+<blockquote>
+⚠️ <b>AVISO: Não faça YOLO em produção</b> ⚠️<br/>
+Mesclar o commit inicial do seu projeto open-source é uma forma válida 😉
+</blockquote>
+</details>
+
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>Mescle um PR com commit co-autorado.</blockquote>
+<div align="center">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+</div>
+
+Parceria é tudo! Para ganhar esse badge, você precisa praticar programação em dupla de forma transparente.
+
+<ol>
+    <li>Trabalhe com um colaborador: code juntos, revisem, troquem ideias</li>
+    <li>Adicione no commit:<br/>
+        <code>Co-authored-by: nomeUsuario &lt;email@exemplo.com&gt;</code>
+    </li>
+    <li>Abra e mescle o PR</li>
+</ol>
+
+✅ Combine com Pull Shark para um combo de conquistas!
+</details>
+
+<details>
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 Jogue uma moeda para o seu bruxo</blockquote>
 <div align="center">
