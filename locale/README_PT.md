@@ -14,7 +14,7 @@
   <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
   <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
   <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="README_JP.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
   <a href="README_KO.md">🇰🇷 한국어</a>
 </div>
 <h3 align="center">
