@@ -105,6 +105,8 @@ GitHub 업적에서 가장 큰 문제 중 하나는 다음과 같습니다:
 
 💡 그렇기 때문에 "작동하는지 테스트하려고" 가짜 PR을 만들 필요는 없습니다.
 
+<h2 align="center">업적</h2>
+
 <details>
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>이슈 또는 PR을 만든 후 5분 이내에 닫기</blockquote>
