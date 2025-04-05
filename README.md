@@ -1,5 +1,7 @@
-<h1 align="center">🏆 Hot to unlock 100% Github achievements | 2025 🏆</h1>
-<h2 align="center">- Fair & Honest guide -</h2>
+<h1 align="center">
+   🏆 Hot to unlock 100% Github achievements | 2025<br/>
+   - Fair & Honest guide -
+</h1>
 
 <h3 align="center">Main Problem</h3>
 <b>Corporate GitHub ≠ Personal GitHub</b>
@@ -18,7 +20,7 @@ It’s not your fault — it’s just how permissions, visibility, and access ar
 > 💡 **Hack**  
 > Sometimes, you can negotiate with your company to let you contribute from your personal GitHub account. If that’s your case — consider yourself lucky. Most devs don’t get that privilege.
 
-<h1 align="center">Dirty Strategies</h1>
+<h3 align="center">Dirty Strategies</h3>
 
 🚫 <b>Let’s talk about cheating (and why it’s dumb)</b>
 
@@ -38,7 +40,7 @@ Achievements should reflect <strong>your real skill and value</strong>, not your
 > Not because cheating is “bad”, but because cheating when there are smart, legit strategies available...  
 > is just plain stupid.
 
-<h1 align="center">How to grind achievements the right way</h1>
+<h3 align="center">How to grind achievements the right way</h1>
 Let’s talk about the real engine behind achievement growth:
 
 > The fastest and most honest way to earn GitHub achievements is by doing meaningful work under your personal account — preferably in your own open-source project.
@@ -65,7 +67,7 @@ Even the smallest project can become your personal growth engine.
 > * Make sure only trusted collaborators can merge or push
 > * Keep your repo clean from random spam or harmful code
 
-<h1 align="center">Why it’s important to understand how achievements are displayed</h1>
+<h3 align="center">Why it’s important to understand how achievements are displayed</h3>
 
 🧠 <b>Before you grind — read this!</b>
 
@@ -82,7 +84,9 @@ So when you see something like:
 
 💡 That’s why you don’t need to panic or rush to create dummy PRs just to “test if it works.”
 
-<h1 align="center">QuickDraw</h1>
+<h2 align="center">Achievements</h2>
+
+<h3 align="center">Quick draw</h3>
 <div align="center">
     <img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
 </div>
