@@ -39,13 +39,10 @@ Keep in mind:
 Achievements should reflect <strong>your real skill and value</strong>, not your ability to game the system.
 
 > 💬 <strong>I would never hire a cheater.</strong><br>
-> Not because cheating is “bad”, but because cheating when there are smart, legit strategies available...  
-> is just plain stupid.
+> Not because cheating is “bad”, but because cheating when there are smart, legit strategies available... is just plain stupid.
 
 <h3 align="center">How to grind achievements the right way</h1>
-Let’s talk about the real engine behind achievement growth:
-
-> The fastest and most honest way to earn GitHub achievements is by doing meaningful work under your personal account — preferably in your own open-source project.
+Let’s talk about the real engine behind achievement growth: the fastest and most honest way to earn GitHub achievements is by doing meaningful work under your personal account — preferably in `your own open-source project`.
 
 And no, it doesn’t have to be world-changing.
 
