@@ -111,7 +111,7 @@ GitHub अचीवमेंट्स की सबसे बड़ी समस
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>Issue या PR बनाने के 5 मिनट के भीतर उसे बंद कर दें।</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 सच कहें तो — यह अचीवमेंट एक मेम जैसा है, कोई मील का पत्थर नहीं 😅  
@@ -132,7 +132,7 @@ GitHub अचीवमेंट्स की सबसे बड़ी समस
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>GitHub Discussion में आपकी उत्तर को "स्वीकृत उत्तर" के रूप में चिन्हित किया जाए।</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain उन लोगों को मिलता है जो Discussions में <strong>वास्तव में मददगार उत्तर</strong> देते हैं।  
@@ -196,7 +196,7 @@ Galaxy Brain उन लोगों को मिलता है जो Discuss
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 अपने विचर को एक सिक्का उछालो</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 GitHub Sponsors के माध्यम से किसी open-source डेवेलपर या प्रोजेक्ट को आर्थिक रूप से समर्थन दें।
@@ -220,7 +220,7 @@ GitHub Sponsors के माध्यम से किसी open-source डे
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>आपका Pull Request किसी और द्वारा merge किया जाए।</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 शुरुआत करने का सबसे आसान तरीका है — अपने खुद के open-source प्रोजेक्ट पर काम करना।  
@@ -248,7 +248,7 @@ Pull Shark को सही से कमाना है (और एक बे�
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>ऐसा रेपो बनाएं जिसे बहुत सारे स्टार्स मिलें।</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 यह GitHub पर सबसे कठिन और सबसे अधिक सम्मानित अचीवमेंट्स में से एक है।  
