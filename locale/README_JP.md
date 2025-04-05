@@ -184,6 +184,56 @@ Galaxy Brain は、<strong>本当に役立つ回答</strong>を Discussions に�
 </details>
 
 <details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>レビューなしで Pull Request をマージする。</blockquote>
+<div align="center">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
+</div>
+
+このバッジはスピードと信頼、あるいは無謀さ 😅 の象徴です。  
+1 回だけで達成できます。
+
+<ol>
+    <li>プロジェクトに小さくて安全な変更を加えましょう。例：</li>
+    <ul>
+        <li>Lint 修正</li>
+        <li>ワンライナーのパッチ</li>
+        <li><code>README.md</code> へのちょっとした追加</li>
+        <li><code>git init</code> を含む初期コミット</li>
+    </ul>
+    <li>Pull Request を作成</li>
+    <li>レビューを待たずに自分でマージ</li>
+</ol>
+
+<blockquote>
+⚠️ <b>注意：本番環境での YOLO は避けましょう</b> ⚠️<br/>
+オープンソースプロジェクトの初期コミットをマージすれば、クリーンで合法的です 😉
+</blockquote>
+</details>
+
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>共同執筆者のコミットを含む PR をマージする。</blockquote>
+<div align="center">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+</div>
+
+一緒にコーディングすれば、成果もバッジもより良いものになります！  
+このバッジを獲得するには、ペアプログラミングを実践しましょう。
+
+<ol>
+    <li>チームメイトと一緒にアイデアを出し合いながらコードを書く</li>
+    <li>コミットメッセージに以下を追加：<br/>
+        <code>Co-authored-by: ユーザー名 &lt;メールアドレス&gt;</code>
+    </li>
+    <li>PR を作成してマージ</li>
+</ol>
+
+✅ Pull Shark との同時達成も可能！効率よくバッジをゲットしましょう！
+</details>
+
+
+<details>
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 ウィッチャーにコインを投げよう</blockquote>
 <div align="center">
