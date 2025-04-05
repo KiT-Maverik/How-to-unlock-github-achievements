@@ -10,7 +10,6 @@
   <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
   <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
   <a href="README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
-  <a href="README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
   <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
   <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
   <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
