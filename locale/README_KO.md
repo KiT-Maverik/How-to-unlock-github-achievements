@@ -192,6 +192,54 @@ Galaxy Brain은 Discussions에서 <strong>진짜 도움이 되는 답변</strong
 </details>
 
 <details>
+    <summary align="center"><b>YOLO</b></summary>
+<blockquote>리뷰 없이 PR을 병합하세요.</blockquote>
+<div align="center">
+    <img src="../badges/yolo.png" alt="YOLO" width="140">
+</div>
+
+이 배지는 속도와 신뢰 — 또는 무모함 😅 — 을 상징합니다.  
+한 번만 하면 됩니다.
+
+<ol>
+    <li>작고 안전한 변경을 만드세요:</li>
+    <ul>
+        <li>Lint 수정</li>
+        <li>한 줄짜리 패치</li>
+        <li><code>README.md</code>에 간단한 추가</li>
+        <li>초기 커밋 (예: git init)</li>
+    </ul>
+    <li>PR을 생성하세요</li>
+    <li>리뷰 없이 직접 병합하세요</li>
+</ol>
+
+<blockquote>
+⚠️ <b>주의: 프로덕션에서는 YOLO 하지 마세요</b> ⚠️<br/>
+Open-source 프로젝트 초기 커밋 병합으로 쉽게 달성할 수 있어요 😉
+</blockquote>
+</details>
+
+<details>
+    <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
+<blockquote>공동 작성된 커밋이 포함된 PR을 병합하세요.</blockquote>
+<div align="center">
+    <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
+</div>
+
+함께 작업하면 더 좋은 결과가 나옵니다 — 배지도 포함해서요!
+
+<ol>
+    <li>팀원과 페어 프로그래밍을 진행하세요</li>
+    <li>커밋 메시지에 다음을 추가하세요:<br/>
+        <code>Co-authored-by: 사용자이름 &lt;이메일&gt;</code>
+    </li>
+    <li>PR을 만들고 병합하세요</li>
+</ol>
+
+✅ Pull Shark도 함께 진행 가능! 팀워크 만세 💪
+</details>
+
+<details>
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 위쳐에게 동전을 던져라</blockquote>
 <div align="center">
