@@ -184,7 +184,7 @@ If you maintain your own open-source project, just `move important communication
 
 <details>
     <summary align="center"><b>YOLO</b></summary>
-<blockquote>Merge a pull request without a review.</blockquote>
+<blockquote>Merge `your` pull request without a review.</blockquote>
 <div align="center">
     <img src="badges/yolo.png" alt="YOLO" width="140">
 </div>
