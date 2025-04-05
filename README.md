@@ -116,14 +116,35 @@ Sponsor — це ачивмент, який видається, коли ти ф
 
 Вірно! Якщо цей гайд виявився тобі корисним, ти можеш підтримати репозиторій, в якому його знайшов. Будь-який донат — це чудовий спосіб подякувати авторам за їхню працю. "Bro, якщо цей репозиторій тобі допоміг, зроби довільний донат!
 
-# PoolShark
-Окей, тепер давай опишемо achievement PoolShark. Щоби його досягнути, опиши, що треба зробити. Найкраща стратегія його досягнути – це у власному open-source проєкті постити pool-requests і щоби твої колаборатори їх мерджили. Важливо, щоби їх мерджив хтось інший, окрім тебе
+<h1 align="center">PULL SHARK</h1>
+<div align="center">
+    <img src="badges/pull-shark.png" alt="Pull Shark">
+</div>
 
-це ачивмент, який отримують за активну участь у pull request'ах. Найкраща стратегія для його досягнення — це регулярно створювати pull request'и у власному open-source проєкті і залучати колабораторів для їх мерджу. Важливо, щоб ці pull request'и мерджив хтось інший, а не ти сам. Це показує, що ти активно працюєш у команді й твій код проходить перевірку іншими розробниками.
+---
 
-Цікава деталь. Багато новачків страждають на таку проблему. Вони намагаються зробити величезний pull request буквально про все, засунувши в нього всю інформацію з контексту Fitch, яка буквально-буквально існує. Якщо ти будеш качати pull shark, то для того, щоб це ефективно і успішно робити, тобі доведеться навчитися деталізувати коміти, деталізувати pull requests, робити їх атомарними, маленькими, гарними для рів'ю, легкими в рів'ю і, условно говоря, безпечними.
+<details>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Get your pull request merged by someone else.</blockquote>
+The easiest way to start is to work on your own open-source project — something we already talked about above. Just create real, useful pull requests and ask your collaborators to review and merge them.
 
-Це дійсно важлива деталь! Новачкам варто навчитися робити pull request'и атомарними та чітко структурованими. Замість того, щоб намагатися охопити все в одному великому pull request'і, краще розбивати зміни на невеликі, логічно завершені частини. Такі pull request'и легше перевіряти, вони зрозуміліші для колег і швидше мерджаться. Це не тільки допоможе отримати Pull Shark, але й підвищить якість твоєї роботи та спростить командну співпрацю.
+This is arguably the most <strong>skill-boosting achievement</strong> on GitHub — it pushes you to write clean, testable, and reviewable code.
+
+---
+
+> 💡 **Hack 0: Make small, atomic PRs**  
+Many beginners fall into the “mega-PR” trap: stuffing everything into one massive pull request.  
+But if you want to earn Pull Shark effectively (and grow as a developer), you must learn to write small, atomic pull requests.  
+That means: well-scoped, readable, easy to test and review.  
+This isn’t just about the badge — it’s how professionals code.
+
+> 🤝 **Hack 1: Earn "Pair Extraordinaire" in parallel**  
+Pair up with one of your collaborators. Code together, exchange feedback, review each other's PRs. Then use the `Co-authored-by:` tag to transparently reflect the shared effort. You’ll both progress toward two achievements at once — smart move!
+
+> 🎯 **Hack 2: Give away YOLOs**  
+If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
+
+</details>
 
 
 <h1 align="center">STARSTRUCK</h1>
