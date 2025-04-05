@@ -200,10 +200,13 @@ That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not h
 <blockquote>🐺 Toss a coin to your witcher</blockquote>
 Support an open-source developer or project financially via GitHub Sponsors.
 
-To earn this badge, just donate to any open-source initiative.  
-Maybe it’s a tool you use daily.  
-Maybe it’s a repo that once saved your entire weekend.  
-Or maybe it’s just a dev you genuinely respect.
+<div align="center">
+   <br/>
+   To earn this badge, just donate to any open-source initiative.<br/>
+   Maybe it’s a tool you use daily.<br/>
+   Maybe it’s a repo that once saved your entire weekend.<br/>
+   Or maybe it’s just a dev you genuinely respect.<br/>
+</div>
 
 💡 Even a small donation makes a big difference. It shows appreciation, respect, and keeps the open-source spirit alive.
 
