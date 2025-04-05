@@ -88,14 +88,12 @@ So when you see something like:
 
 <h2 align="center">Achievements</h2>
 
-<h3 align="center">Quick draw</h3>
-<div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
-</div>
-
 <details>
-    <summary>🚀 <b>How to unlock?</b></summary>
+    <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>Close an issue or PR within 5 minutes of opening it.</blockquote>
+<div align="center">
+    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+</div>
 
 Let’s be honest — this one’s more of a meme than a milestone 😅  
 It’s so easy to get that it barely counts… but hey, it’s still a badge on your profile!
