@@ -110,7 +110,7 @@ GitHub অর্জন নিয়ে সবচেয়ে বড় সমস
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>ইস্যু অথবা PR খুলে ৫ মিনিটের মধ্যে বন্ধ করুন।</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 আসুন সত্যি কথা বলি — এটা অর্জনের চেয়ে বরং একটা মিমের মতো 😅  
@@ -131,7 +131,7 @@ GitHub অর্জন নিয়ে সবচেয়ে বড় সমস
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>আপনার উত্তর GitHub Discussion-এ গ্রহণযোগ্য (accepted) হিসেবে চিহ্নিত হলে।</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain অর্জনটি দেয় তাদের, যারা Discussions-এ <strong>বাস্তব ও সহায়ক উত্তর</strong> দেয়।  
@@ -195,7 +195,7 @@ Galaxy Brain অর্জনটি দেয় তাদের, যারা Di
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 তোমার উইচারকে একটা কয়েন ছুঁড়ে দাও</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 GitHub Sponsors-এর মাধ্যমে একজন ওপেন সোর্স ডেভেলপার বা প্রকল্পকে আর্থিকভাবে সহায়তা করুন।
@@ -221,7 +221,7 @@ GitHub Sponsors-এর মাধ্যমে একজন ওপেন সোর
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>আপনার PR অন্য কেউ মার্জ করলে</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 শুরু করার সবচেয়ে সহজ উপায় হল — আপনার নিজের ওপেন সোর্স প্রোজেক্টে কাজ করা (উপরেও আলোচনা হয়েছে)।  
@@ -252,7 +252,7 @@ GitHub Sponsors-এর মাধ্যমে একজন ওপেন সোর
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>অনেক স্টার পাওয়া একটি রেপো তৈরি করুন।</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 GitHub-এর অন্যতম কঠিন এবং সম্মানজনক ব্যাজ এটি।  

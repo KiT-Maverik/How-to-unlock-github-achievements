@@ -111,7 +111,7 @@
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>أغلق issue أو PR خلال 5 دقائق من إنشائه.</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 لنكن صادقين — هذا الإنجاز أقرب إلى المزحة من كونه هدفًا حقيقيًا 😅  
@@ -132,7 +132,7 @@
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>تم تعليم ردّك كإجابة مقبولة في GitHub Discussion.</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجابات مفيدة حقًا</strong> في Discussions.  
@@ -196,7 +196,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 ألقِ قطعة نقود للساحر!</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 ادعم مطورًا أو مشروعًا مفتوح المصدر ماليًا عبر GitHub Sponsors.
@@ -221,7 +221,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>تم دمج طلب السحب (PR) الخاص بك من قبل شخص آخر.</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 أسهل طريقة للبدء هي العمل على مشروع open-source خاص بك — كما ناقشنا سابقًا.  
@@ -252,7 +252,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>أنشئ مستودعًا يحصل على عدد كبير من النجوم.</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 هذه واحدة من أصعب وأكثر الشارات احترامًا على GitHub.  

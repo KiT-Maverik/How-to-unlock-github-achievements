@@ -109,7 +109,7 @@ GitHub 업적에서 가장 큰 문제 중 하나는 다음과 같습니다:
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>이슈 또는 PR을 만든 후 5분 이내에 닫기</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 솔직히 말해서 — 이건 업적이라기보단 밈에 가깝습니다 😅  
@@ -130,7 +130,7 @@ GitHub 업적에서 가장 큰 문제 중 하나는 다음과 같습니다:
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>GitHub Discussion에서 당신의 댓글이 ‘채택된 답변’으로 표시되면 획득</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain은 Discussions에서 <strong>진짜 도움이 되는 답변</strong>을 제공한 사람에게 주어집니다.  
@@ -195,7 +195,7 @@ Galaxy Brain은 Discussions에서 <strong>진짜 도움이 되는 답변</strong
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 위쳐에게 동전을 던져라</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 GitHub Sponsors를 통해 오픈소스 개발자나 프로젝트를 금전적으로 후원하세요.
@@ -220,7 +220,7 @@ GitHub Sponsors를 통해 오픈소스 개발자나 프로젝트를 금전적으
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>당신의 PR이 다른 사람에 의해 머지되도록 하세요.</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 가장 쉬운 시작은 자신만의 오픈소스 프로젝트에서 작업하는 것입니다 —  
@@ -252,7 +252,7 @@ GitHub Sponsors를 통해 오픈소스 개발자나 프로젝트를 금전적으
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>많은 별을 받은 저장소를 만드세요.</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 이 업적은 GitHub에서 가장 어렵고, 가장 존경받는 업적 중 하나입니다.  

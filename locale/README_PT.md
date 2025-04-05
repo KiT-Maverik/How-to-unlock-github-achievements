@@ -109,7 +109,7 @@ Então, quando você vê algo como:
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>Feche uma issue ou PR em até 5 minutos após criá-la.</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 Vamos ser honestos — esse aqui é mais uma piada do que um feito 😅  
@@ -130,7 +130,7 @@ Vamos ser honestos — esse aqui é mais uma piada do que um feito 😅
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>Tenha sua resposta marcada como aceita em uma GitHub Discussion.</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 O Galaxy Brain recompensa pessoas que dão <strong>respostas realmente úteis</strong> em Discussões.  
@@ -193,7 +193,7 @@ Se você mantém um projeto open-source, <code>mova discussões importantes para
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 Jogue uma moeda para o seu bruxo</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 Apoie financeiramente um desenvolvedor ou projeto open-source via GitHub Sponsors.
@@ -217,7 +217,7 @@ Apoie financeiramente um desenvolvedor ou projeto open-source via GitHub Sponsor
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>Tenha seu pull request mergeado por outra pessoa.</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 A forma mais fácil de começar é trabalhar em um projeto open-source próprio — algo que já falamos acima.  
@@ -245,7 +245,7 @@ Não é só pelo badge — <strong>é como os profissionais trabalham</strong>.
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>Crie um repositório que receba um grande número de estrelas.</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 Este é um dos achievements mais difíceis e respeitados no GitHub.  
