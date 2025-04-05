@@ -28,19 +28,13 @@
 При створенні відкритого open-source проєкту важливо налаштувати безпеку. Потрібно чітко визначити права доступу, щоб лише довірені колаборатори могли вносити зміни. Так ти захистиш проєкт від небажаних комітів та збережеш контроль над його розвитком.
 
 # pair extraordinate
-Добре, давай перейдемо до першого ачівменту – Payer Extra Ordinate. По-перше, напиши, що це за ачівмент, за що він видається, які критерії і які цифри потрібні для того, щоб його відкрити.
-Pair Extraordinaire — це ачивмент на GitHub, який видається за активну участь у парному програмуванні. Критерії для отримання цієї відзнаки включають регулярну участь у pull request'ах разом з іншими користувачами. Щоб отримати ачивмент, потрібно мати значну кількість merged pull request'ів, в яких ти або інший користувач брали участь у кодрев'ю, залишали коментарі чи пропонували зміни. Точна цифра може варіюватися, але зазвичай це кілька десятків успішних pull request'ів.
 
-Окей, тепер гайд, як його швидко відкрити. У своєму опенсорс-проєкті ви повинні працювати з якимось колаборатором. Це може бути ваш брат, сестра, колега, дружина, просто знайомий або будь-хто. Ви домовляєтесь з цією людиною, що ви займаєтесь парним програмуванням. Тобто кожний pull request, який ви створюєте, він активно обговорюється між вами двома і ви вносите зміни в нього. Тут виходить такий ефект, що ми чесно визначили, що якась робота виконується двома розробниками і ми тоді просто і чесно можемо додати в шаблон commit message в нашій IDE Таким чином у нас в кожному pull request буде дуже багато комітів і кожні з них будуть в савстворстві зі своїм партнером.”
-Відзначимо, що парне програмування не лише допомагає швидко отримати ачивмент, а й покращує якість коду завдяки спільному обговоренню та рев'ю. Важливо, щоб співпраця була чесною й взаємовигідною, а всі коміти містили реальні зміни. Використання "Co-authored-by" у commit messages — відмінний спосіб прозоро показати спільну роботу.
 
-Це ми опишемо в іншому ачівменті, але важливо, щоби ваші pull-requests, які ви робите в партнерстві, мерджив ваш партнер. Тоді ви паралельно з PR Extraordinate будете відкривати pull-shark.
 
-Якщо ваші pull request'и буде мерджити ваш партнер, то ви паралельно з "Pair Extraordinaire" будете відкривати і "Pull Shark". Це подвійна користь від спільної роботи. Головне — узгодити цей процес і чітко розподілити ролі, щоб обидва розробники могли отримувати максимум користі від такої співпраці.
 
 <h1 align="center">QuickDraw</h1>
 <div align="center">
-<img src="badges/quickDraw.png" alt="QuickDraw" width="15%">
+<img src="badges/quick-draw.png" alt="QuickDraw" width="15%">
 </div>
 <details>
     <summary>🚀 How to unlock?</summary>
@@ -101,21 +95,37 @@ You only need to do it once, so here’s the cleanest way:
 
 <h1 align="center">Pair Extraordinaire</h1>
 <div align="center">
-<img src="badges/YOLO.png" alt="YOLO" width="15%">
+    <img src="badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
+
 <details>
-    <summary>🚀 How to unlock?</summary>
-<blockquote>Merge PR without a review</blockquote>
+    <summary>🚀 <b>How to unlock?</b></summary>
+<blockquote>Merge a pull request that includes a co-authored commit.</blockquote>
+
+Working together makes everything better — including achievements.  
+To unlock this badge, you’ll need to practice honest and transparent pair programming.
+
 <ol>
-    <li>Make a small change in your project (see examples below):</li>
-    <ul>
-        <li>Lint</li>
-        <li>Quick one-liner fix</li>
-        <li>Small, yet valuable addition to README.md</li>
-        <li>Initial commit with something like git initialization, or setting up packages</li>
-    </ul>
-    <li>Merge it without review</li>
+    <li>Team up with a collaborator and code together. Share ideas, review each other’s work, and write code side by side.</li>
+    <li>Add a co-author annotation in your commit message:<br>
+        <code>Co-authored-by: johnDoe &lt;johnDoe@example.com&gt;</code><br>
+        <ul>
+            <li><code>johnDoe</code> = GitHub username (from the profile URL)</li>
+            <li><code>johnDoe@example.com</code> = email linked to their GitHub account</li>
+        </ul>
+    </li>
+    <li>Open a pull request and merge it.</li>
 </ol>
+
+This is one of the most valuable achievements because it’s fully based on teamwork.  
+Pair programming not only speeds up learning — it improves code quality through real-time discussion and shared review.
+
+> ⚙️ <strong>Hack 0: Automate it</strong><br>
+Set up a commit message template in your IDE with a pre-filled `Co-authored-by:` line. This avoids typos and makes sure no contributor gets forgotten.
+
+> 🦈 <strong>Hack 1: Open <code>Pull Shark</code> in parallel</strong><br>
+If your collaborator merges the PR, you'll also make progress on the <strong>Pull Shark</strong> achievement.  
+That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not harder.
 </details>
 
 <h1 align="center">SPONSOR</h1>
