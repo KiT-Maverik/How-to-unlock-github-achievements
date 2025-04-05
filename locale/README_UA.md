@@ -3,7 +3,6 @@
    – І зробити це швидко і чесно –
 </h1>
 
-
 <div align="center">
   <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
