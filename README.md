@@ -126,10 +126,59 @@ Galaxy Brain — це ачивмент, який отримують, коли в
 Це відмінна стратегія! Перенесення важливої комунікації у дискусії власного open-source проєкту має додаткові переваги: це не лише сприяє отриманню ачивменту, а й створює прозору історію прийняття рішень. Такий підхід залучає команду до обговорення, допомагає зберігати важливу інформацію в репозиторії та показує твою активність як мейнтейнера. А якщо твоя відповідь визнається прийнятною, ти заслужено отримуєш Galaxy Brain.
 
 <details>
+    <summary align="center"><b>GALAXY BRAIN</b></summary>
+<blockquote>Have your reply marked as the accepted answer in a GitHub Discussion.</blockquote>
+<div align="center">
+    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+</div>
+
+Galaxy Brain rewards people who give <strong>genuinely helpful answers</strong> in Discussions.  
+If your reply is accepted by the topic starter — the badge is yours.
+
+`🧩 Strategy 1: Help someone for real`
+
+The fastest way to earn this badge is by doing something you should already be doing — helping people.
+
+<ol>
+    <li>Find public repositories related to your tech stack</li>
+    <li>Check if Discussions are enabled</li>
+    <li>When someone asks a question you know the answer to — help them</li>
+    <li>After solving their issue, just ask:  
+        <em>“Hey, if my answer helped — mind marking it as accepted?”</em>
+    </li>
+</ol>
+
+<blockquote>✅ This approach is honest, useful, and creates long-lasting resources for the community.</blockquote>
+
+💡 Bonus move:  
+You and a teammate can coordinate. If they run into a problem, you offer a great answer — they accept it.  
+Everyone wins. And it’s not fake — it’s just structured collaboration.
+
+---
+
+## 🛠️ Strategy 2: Use Discussions in your own repo
+
+If you maintain your own open-source project, just **move important communication into GitHub Discussions**.
+
+1. Enable Discussions in repo settings
+2. Whenever there's a decision or a feature debate — start a public thread
+3. Share clear, constructive responses that help guide decisions
+4. If someone else started the topic — your reply can be marked as the accepted answer
+
+This strategy:
+- Builds transparent decision history
+- Shows leadership and initiative
+- Helps your team stay aligned
+- And yes — earns you the badge
+
+<blockquote>🧠 This is what maintainers do. It’s not about gaming the system — it’s about working like a pro.</blockquote>
+</details>
+
+<details>
     <summary align="center"><b>YOLO</b></summary>
 <blockquote>Merge a pull request without a review.</blockquote>
 <div align="center">
-    <img src="badges/YOLO.png" alt="YOLO" width="140">
+    <img src="badges/yolo.png" alt="YOLO" width="140">
 </div>
 This one’s all about speed and trust — or recklessness 😅  
 You only need to do it once, so here’s the cleanest way:
