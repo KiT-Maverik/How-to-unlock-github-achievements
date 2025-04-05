@@ -3,6 +3,22 @@
    - Fair & Honest guide -
 </h1>
 
+<div align="center">
+  <a href="locale/README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp;
+  <a href="docs/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="docs/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
+  <a href="docs/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="docs/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
+  <a href="docs/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
+  <a href="docs/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
+  <a href="docs/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
+  <a href="docs/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
+  <a href="docs/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
+  <a href="docs/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="docs/README_KO.md">🇰🇷 한국어</a>
+</div>
+
 <h3 align="center">
    Main Problem<br/>
    Corporate GitHub ≠ Personal GitHub
@@ -219,11 +235,11 @@ This is one of the most valuable achievements because it’s fully based on team
 Pair programming not only speeds up learning — it improves code quality through real-time discussion and shared review.
 
 > ⚙️ <strong>Hack 0: Automate it</strong><br>
-Set up a commit message template in your IDE with a pre-filled `Co-authored-by:` line. This avoids typos and makes sure no contributor gets forgotten.
+> Set up a commit message template in your IDE with a pre-filled `Co-authored-by:` line. This avoids typos and makes sure no contributor gets forgotten.
 
 > 🦈 <strong>Hack 1: Open <code>Pull Shark</code> in parallel</strong><br>
-If your collaborator merges the PR, you'll also make progress on the <strong>Pull Shark</strong> achievement.  
-That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not harder.
+> If your collaborator merges the PR, you'll also make progress on the <strong>Pull Shark</strong> achievement.  
+> That’s a 2-in-1 win — just agree on roles and alternate. Work smarter, not harder.
 </details>
 
 <details>
@@ -264,10 +280,10 @@ Many beginners fall into the “mega-PR” trap: stuffing everything into one ma
 This isn’t just about the badge — **it’s how professionals code**.
 
 > 🤝 **Hack 1: Earn "Pair Extraordinaire" in parallel**  
-Pair up with one of your collaborators. Code together, exchange feedback, review each other's PRs. Then use the `Co-authored-by:` tag to transparently reflect the shared effort. You’ll both progress toward two achievements at once — smart move!
+> Pair up with one of your collaborators. Code together, exchange feedback, review each other's PRs. Then use the `Co-authored-by:` tag to transparently reflect the shared effort. You’ll both progress toward two achievements at once — smart move!
 
 > 🎯 **Hack 2: Give away YOLOs**  
-If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
+> If you’ve made a tiny, safe PR — let your teammate merge it <em>without review</em> so they can unlock the YOLO badge. You give value, they get an achievement — `win-win`!
 </details>
 
 <details>
