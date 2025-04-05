@@ -104,7 +104,7 @@ It’s so easy to get that it barely counts… but hey, it’s still a badge on 
 </ol>
 
 <blockquote>
-   <b>No need to create fake PRs.</b><br/>
+   <b>⚠️ No need to create fake PRs. ⚠️</b><br/>
    Just close and reopen any real PR during normal work — it still counts.</blockquote>
 </details>
 
