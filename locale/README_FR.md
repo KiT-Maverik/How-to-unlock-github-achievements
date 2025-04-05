@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
   <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
   <a href="README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
