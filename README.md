@@ -126,28 +126,36 @@ You'll learn how to:
     <li>Keep your entire team aligned and aware of key discussions</li>
 </ul>
 
-`🧩 Strategy 1: Help someone for real`
+🚀Houston, we have a problem!🚀
+Even when your answer is legit and actually solves the issue — people rarely mark it as accepted. Reminders often get ignored, and you end up ghosted. Brutal, but true.
 
-The fastest way to earn this badge is by doing something you should already be doing — helping people.
+So instead of relying on strangers, try this instead:  
+Grind Galaxy Brain in a **controlled environment**:  
+* Team up with friends or colleagues.
+* Answer their real questions
+* Ask them to accept your reply if it helped.
+
+`🧩 Strategy 1: Solve your friend problem`
 
 <ol>
     <li>Find public repositories related to your tech stack</li>
     <li>Check if Discussions are enabled</li>
-    <li>When someone asks a question you know the answer to — help them</li>
-    <li>After solving their issue, just ask:  
-        <em>“Hey, if my answer helped — mind marking it as accepted?”</em>
+    <li>When your colleague/friend asks a question you know the answer to — help them</li>
+    <li>After solving their issue, do the following:
+         <ul>
+            <li>Ask your colleague to help you in exchange: create a discussion in related repo with the brief you provided.
+            </li>
+            <li>Write your answer there</li>
+            <li>Ask your friend to mark this answer as accepted</li>
+         </ul>
     </li>
 </ol>
 
-<blockquote>✅ This approach is honest, useful, and creates long-lasting resources for the community.</blockquote>
-
-💡 Bonus move:  
-You and a teammate can coordinate. If they run into a problem, you offer a great answer — they accept it.  
-Everyone wins. And it’s not fake — it’s just structured collaboration.
+✅ This approach is honest, useful, and creates long-lasting resources for the community.
 
 `🛠️ Strategy 2: Use Discussions in your own repo`
 
-If you maintain your own open-source project, just **move important communication into GitHub Discussions**.
+If you maintain your own open-source project, just `move important communication into GitHub Discussions`.
 
 1. Enable Discussions in repo settings
 2. Whenever there's a decision or a feature debate — start a public thread
@@ -159,9 +167,6 @@ This strategy:
 - Shows leadership and initiative
 - Helps your team stay aligned
 - And yes — earns you the badge
-
-<blockquote>🧠 This is what maintainers do. It’s not about gaming the system — it’s about working like a pro.</blockquote>
-</details>
 
 <details>
     <summary align="center"><b>YOLO</b></summary>
