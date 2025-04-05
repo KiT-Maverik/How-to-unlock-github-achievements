@@ -1,21 +1,22 @@
 <h1 align="center">
-   🏆 Hot to unlock 100% Github achievements | 2025<br/>
-   - Fair & Honest guide -
+   🏆 Як відкрити 100% ачивментів GitHub | 2025<br/>
+   – І зробити це швидко і чесно –
 </h1>
+
 
 <div align="center">
   <a href="../README.md">🇬🇧 English</a> &nbsp;|&nbsp;
-  <a href="docs/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
-  <a href="docs/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
-  <a href="docs/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
-  <a href="docs/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
-  <a href="docs/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
-  <a href="docs/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
-  <a href="docs/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
-  <a href="docs/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
-  <a href="docs/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="docs/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
-  <a href="docs/README_KO.md">🇰🇷 한국어</a>
+  <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
+  <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
+  <a href="README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
+  <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
+  <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
+  <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
+  <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
+  <a href="README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="README_KO.md">🇰🇷 한국어</a>
 </div>
 <h3 align="center">
    Основна проблема<br/>
@@ -27,7 +28,7 @@
 > Більшість професійних розробників працюють під корпоративними GitHub-акаунтами.
 
 Це означає:
-- Усі твої коміти, pull request'и та ревʼю живуть в **іншому організаційному обліковому записі**
+- Усі твої коміти, PR'и та ревʼю живуть в **іншому організаційному обліковому записі**
 - Твій **особистий профіль GitHub залишається порожнім**
 - А досягнення? Так і не відкриваються.
 
@@ -73,7 +74,7 @@
 
 💡 Суть у тому, щоб створити щось справжнє і постійно над цим працювати:
 * Частіше коміти
-* Відкривай pull request'и
+* Відкривай PR'и
 * Запускай дискусії
 * Потроху вдосконалюй
 
@@ -98,7 +99,7 @@
 Наприклад, коли ти бачиш:
 
 > <code>Pull Shark x2</code>  
-> Це не означає, що ти зробив 2 pull request'и.  
+> Це не означає, що ти зробив 2 PR'и.  
 > Це означає, що ти дійшов до другого рівня (наприклад, 32 merged PRs).
 
 💡 Ось чому не треба панікувати і створювати фейкові PR'и, щоби “перевірити, чи воно працює”.
@@ -116,7 +117,7 @@
 Його настільки легко отримати, що воно майже не рахується… але все ж, це бейдж у твоєму профілі!
 
 <ol>
-    <li>Створи pull request</li>
+    <li>Створи PR</li>
     <li>Закрий його одразу</li>
 </ol>
 
@@ -190,7 +191,9 @@ Galaxy Brain нагороджує тих, хто дає <strong>справді �
 
 <details>
 <summary align="center"><b>YOLO</b></summary>
-<blockquote>Замердж pull request без ревʼю.</blockquote>
+
+> Замердж `власний` PR без ревʼю.
+
 <div align="center">
     <img src="../badges/yolo.png" alt="YOLO" width="140">
 </div>
@@ -206,7 +209,7 @@ Galaxy Brain нагороджує тих, хто дає <strong>справді �
         <li>Маленьке, але корисне доповнення до <code>README.md</code></li>
         <li>Ініціал-коміт зі стартовим налаштуванням або <code>git init</code></li>
     </ul>
-    <li>Створи pull request</li>
+    <li>Створи PR</li>
     <li>Замердж самостійно, без ревʼю</li>
 </ol>
 
@@ -219,7 +222,7 @@ Galaxy Brain нагороджує тих, хто дає <strong>справді �
 
 <details>
     <summary align="center"><b>PAIR EXTRAORDINAIRE</b></summary>
-<blockquote>Замердж pull request із коавторським комітом.</blockquote>
+<blockquote>Замердж PR із коавторським комітом.</blockquote>
 <div align="center">
     <img src="../badges/pair-extraordinaire.png" alt="Pair Extraordinaire">
 </div>
@@ -236,7 +239,7 @@ Galaxy Brain нагороджує тих, хто дає <strong>справді �
             <li><code>johnDoe@example.com</code> — email, пов’язаний із GitHub-акаунтом</li>
         </ul>
     </li>
-    <li>Створи pull request і замердж його</li>
+    <li>Створи PR і замердж його</li>
 </ol>
 
 Це одне з найцінніших досягнень, бо воно повністю базується на командній роботі.  
@@ -275,18 +278,18 @@ Galaxy Brain нагороджує тих, хто дає <strong>справді �
 
 <details>
     <summary align="center"><b>PULL SHARK</b></summary>
-<blockquote>Отримай merge свого pull request'а від іншого користувача.</blockquote>
+<blockquote>Отримай merge свого PR'а від іншого користувача.</blockquote>
 <div align="center">
     <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
-Найпростіший спосіб почати — працювати над власним open-source проєктом (про що ми вже згадували вище). Просто створи реальні, корисні pull request'и і попроси колабораторів перевірити й замерджити їх.
+Найпростіший спосіб почати — працювати над власним open-source проєктом (про що ми вже згадували вище). Просто створи реальні, корисні PR'и і попроси колабораторів перевірити й замерджити їх.
 
 ⭐ Це найпотужніший **ачівмент для прокачки навичок** на GitHub — він змушує тебе писати чистий, тестований і придатний до ревʼю код.
 
 > 💡 **Хак 0: Пиши маленькі, атомарні PR'и**  
 Багато новачків потрапляють у пастку “мега-PR'а”: намагаються втиснути все в один гігантський пул.  
-Але якщо хочеш ефективно заробити Pull Shark (і вирости як дев), треба навчитися створювати маленькі, вузько-сфокусовані pull request'и.  
+Але якщо хочеш ефективно заробити Pull Shark (і вирости як дев), треба навчитися створювати маленькі, вузько-сфокусовані PR'и.  
 Тобто — <code>логічно ізольовані, читабельні, легко тестовані та ревʼювані</code>.  
 Це не просто про бейдж — <strong>це як працюють профі</strong>.
 

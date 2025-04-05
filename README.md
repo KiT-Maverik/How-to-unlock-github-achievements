@@ -1,22 +1,22 @@
 <h1 align="center">
    🏆 Hot to unlock 100% Github achievements | 2025<br/>
-   - Fair & Honest guide -
+   - Fast & Honest guide -
 </h1>
 
 <div align="center">
   <a href="locale/README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
   <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp;
-  <a href="docs/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
-  <a href="docs/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
-  <a href="docs/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
-  <a href="docs/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
-  <a href="docs/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
-  <a href="docs/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
-  <a href="docs/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
-  <a href="docs/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
-  <a href="docs/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="docs/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
-  <a href="docs/README_KO.md">🇰🇷 한국어</a>
+  <a href="locale/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="locale/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
+  <a href="locale/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="locale/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
+  <a href="locale/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
+  <a href="locale/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
+  <a href="locale/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
+  <a href="locale/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
+  <a href="locale/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
+  <a href="locale/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="locale/README_KO.md">🇰🇷 한국어</a>
 </div>
 
 <h3 align="center">
@@ -184,7 +184,8 @@ If you maintain your own open-source project, just `move important communication
 
 <details>
     <summary align="center"><b>YOLO</b></summary>
-<blockquote>Merge `your` pull request without a review.</blockquote>
+
+> Merge `own` pull request without a review.
 <div align="center">
     <img src="badges/yolo.png" alt="YOLO" width="140">
 </div>
