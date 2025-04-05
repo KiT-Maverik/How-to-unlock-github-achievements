@@ -4,18 +4,18 @@
 </h1>
 
 <div align="center">
-  <a href="locale/README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
-  <a href="locale/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
-  <a href="locale/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
-  <a href="locale/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
-  <a href="locale/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
-  <a href="locale/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
-  <a href="locale/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
-  <a href="locale/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
-  <a href="locale/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
-  <a href="locale/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="locale/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
-  <a href="locale/README_KO.md">🇰🇷 한국어</a>
+  <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
+  <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
+  <a href="README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
+  <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
+  <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
+  <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
+  <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
+  <a href="README_JP.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="README_KO.md">🇰🇷 한국어</a>
 </div>
 
 <h3 align="center">
@@ -111,7 +111,7 @@
     <summary align="center"><b>QUICK DRAW</b></summary>
 <blockquote>أغلق issue أو PR خلال 5 دقائق من إنشائه.</blockquote>
 <div align="center">
-    <img src="badges/quick-draw.png" alt="QuickDraw" width="140">
+    <img src="../badges/quick-draw.png" alt="QuickDraw" width="140">
 </div>
 
 لنكن صادقين — هذا الإنجاز أقرب إلى المزحة من كونه هدفًا حقيقيًا 😅  
@@ -132,7 +132,7 @@
     <summary align="center"><b>GALAXY BRAIN</b></summary>
 <blockquote>تم تعليم ردّك كإجابة مقبولة في GitHub Discussion.</blockquote>
 <div align="center">
-    <img src="badges/galaxy-brain.png" alt="Galaxy Brain">
+    <img src="../badges/galaxy-brain.png" alt="Galaxy Brain">
 </div>
 
 Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجابات مفيدة حقًا</strong> في Discussions.  
@@ -196,7 +196,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>SPONSOR</b></summary>
 <blockquote>🐺 ألقِ قطعة نقود للساحر!</blockquote>
 <div align="center">
-    <img src="badges/sponsor.png" alt="Sponsor" width="140">
+    <img src="../badges/sponsor.png" alt="Sponsor" width="140">
 </div>
 
 ادعم مطورًا أو مشروعًا مفتوح المصدر ماليًا عبر GitHub Sponsors.
@@ -221,7 +221,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>PULL SHARK</b></summary>
 <blockquote>تم دمج طلب السحب (PR) الخاص بك من قبل شخص آخر.</blockquote>
 <div align="center">
-    <img src="badges/pull-shark.png" alt="Pull Shark">
+    <img src="../badges/pull-shark.png" alt="Pull Shark">
 </div>
 
 أسهل طريقة للبدء هي العمل على مشروع open-source خاص بك — كما ناقشنا سابقًا.  
@@ -252,7 +252,7 @@ Galaxy Brain يكافئ الأشخاص الذين يقدمون <strong>إجاب�
     <summary align="center"><b>STARSTRUCK</b></summary>
 <blockquote>أنشئ مستودعًا يحصل على عدد كبير من النجوم.</blockquote>
 <div align="center">
-    <img src="badges/starstruck.png" alt="Starstruck">
+    <img src="../badges/starstruck.png" alt="Starstruck">
 </div>
 
 هذه واحدة من أصعب وأكثر الشارات احترامًا على GitHub.  

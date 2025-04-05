@@ -4,18 +4,18 @@
 </h1>
 
 <div align="center">
-  <a href="locale/README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
-  <a href="locale/README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
-  <a href="locale/README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
-  <a href="locale/README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
-  <a href="locale/README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
-  <a href="locale/README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
-  <a href="locale/README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
-  <a href="locale/README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
-  <a href="locale/README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
-  <a href="locale/README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
-  <a href="locale/README_JA.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
-  <a href="locale/README_KO.md">🇰🇷 한국어</a>
+  <a href="README_UA.md">🇺🇦 Українська</a> &nbsp;|&nbsp;
+  <a href="README_ES.md">🇪🇸 Español</a> &nbsp;|&nbsp;
+  <a href="README_FR.md">🇫🇷 Français</a> &nbsp;|&nbsp;
+  <a href="README_DE.md">🇩🇪 Deutsch</a> &nbsp;|&nbsp;
+  <a href="README_ZH.md">🇨🇳 中文</a> &nbsp;|&nbsp;
+  <a href="README_HI.md">🇮🇳 हिन्दी</a> &nbsp;|&nbsp;
+  <a href="README_AR.md">🇸🇦 العربية</a> &nbsp;|&nbsp;
+  <a href="README_PT.md">🇵🇹 Português</a> &nbsp;|&nbsp;
+  <a href="README_BN.md">🇧🇩 বাংলা</a> &nbsp;|&nbsp;
+  <a href="README_UR.md">🇵🇰 اردو</a> &nbsp;|&nbsp;
+  <a href="README_JP.md">🇯🇵 日本語</a> &nbsp;|&nbsp;
+  <a href="README_KO.md">🇰🇷 한국어</a>
 </div>
 
 <h3 align="center">
