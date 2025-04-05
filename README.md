@@ -1,8 +1,22 @@
 ### Hot to unlock Github achievements
 # Fair & Honest guide
 
-# Main problem
-Основна проблема ачівментів заключається в тому, що дуже часто девелопери працюють в корпоративних аккаунтах, і відповідно все, що вони роблять, не попадає в ачівменти, тому що банально вся робота стається на іншому аккаунті.
+<h1 align="center">Main Problem</h1>
+<b>Corporate GitHub ≠ Personal GitHub</b>
+
+Here’s one of the biggest problems with GitHub achievements:
+
+> Most professional developers work under corporate GitHub accounts.
+
+That means:
+- All your commits, pull requests, and reviews live on a **different organization account**
+- Your **personal GitHub profile stays empty**
+- And your achievements? Never unlocked.
+
+It’s not your fault — it’s just how permissions, visibility, and access are structured in private repos.
+
+> 💡 **Hack**  
+> Sometimes, you can negotiate with your company to let you contribute from your personal GitHub account. If that’s your case — consider yourself lucky. Most devs don’t get that privilege.
 
 <h1 align="center">Why it’s important to understand how achievements are displayed</h1>
 
